@@ -1,0 +1,8 @@
+post http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "fsd",
+    "email": "fsd@gmail.com:",
+    "role": "fsdf"
+}
